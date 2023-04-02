@@ -29,8 +29,8 @@
 
 ## 👩‍💻 Мои контакты:
 <p>
-<a href="https://t.me/ks_sshirokova" title="TypeScript"><img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="typescript" width="40" height="40" /></a>
-<a href="mailto:ksirokova85@gmail.com" title="TypeScript"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="typescript" width="40" height="40" /></a>
+<a href="https://t.me/ks_sshirokova" title="https://t.me/ks_sshirokova"><img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="typescript" width="40" height="40" /></a>
+<a href="mailto:ksirokova85@gmail.com" title="ksirokova85@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="typescript" width="40" height="40" /></a>
 </p>
 
 ## 📟 Моя статистика:
