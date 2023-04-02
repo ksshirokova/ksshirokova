@@ -25,10 +25,11 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40" /></a>
 </p>
-## 🛠️ Мои контакты:
+
+
+## 👩‍💻 Мои контакты:
 <p>
 <a href="https://t.me/ks_sshirokova" title="TypeScript"><img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="typescript" width="40" height="40" /></a>
-
 <a href="mailto:ksirokova85@gmail.com" title="TypeScript"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="typescript" width="40" height="40" /></a>
 </p>
 
