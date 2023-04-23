@@ -13,7 +13,7 @@
 
 ## 📅 Сейчас:
 
-Работаю над проектом <a href="https://github.com/ksshirokova/react-burger" target="_blank">Stellar-Burger 🍔</a>
+Изучаю Vue.js и алгоритмы 👩‍💻
 
 ## 🛠️ Мой стек:
 <p>
