@@ -5,7 +5,7 @@ I'm Ksenia, frontened dev from St.P 👋
 
 ## 📅 Now:
 
-I'm currently developing web-app 'GeeksChart'. Also I'm learning Vue.js, different animation libraries and trying to switch to Sass:>
+I'm currently developing online-store 'OFS' with team. Also I'm learning Vue.js, different animation libraries and trying to switch to Sass:>
 
 ## 🛠️ Stack:
 <p>
