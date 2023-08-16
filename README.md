@@ -17,10 +17,12 @@ I'm currently developing online-store 'OFS' with team. Also I'm learning Vue.js,
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40" /></a>
 </p>
+<p>
 <a href="https://sass-scss.ru" title="saas"><img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40" /></a>
-</p>
 <a href="https://getbootstrap.com" title="bootstrap"><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40" /></a>
 </p>
+
+
 
 
 
